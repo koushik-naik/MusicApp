@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#FF808080</color>
+    <color name="light_gray">#FFD3D3D3</color>
+    <color name="dark_gray">#FF404040</color>
+
+    <!-- Reds -->
+    <color name="red">#FFFF0000</color>
+    <color name="light_red">#FFFF7F7F</color>
+    <color name="dark_red">#FF8B0000</color>
+
+    <!-- Greens -->
+    <color name="green">#FF00FF00</color>
+    <color name="light_green">#FF90EE90</color>
+    <color name="dark_green">#FF006400</color>
+
+    <!-- Blues -->
+    <color name="blue">#FF0000FF</color>
+    <color name="light_blue">#FFADD8E6</color>
+    <color name="dark_blue">#FF00008B</color>
+
+    <!-- Yellows -->
+    <color name="yellow">#FFFFFF00</color>
+    <color name="light_yellow">#FFFFFFE0</color>
+    <color name="dark_yellow">#FFCCCC00</color>
+
+    <!-- Oranges -->
+    <color name="orange">#FFFFA500</color>
+    <color name="light_orange">#FFFFE5B4</color>
+    <color name="dark_orange">#FFFF8C00</color>
+
+    <!-- Purples -->
+    <color name="purple">#FF800080</color>
+    <color name="light_purple">#FFEE82EE</color>
+    <color name="dark_purple">#FF4B0082</color>
+
+    <!-- Pinks -->
+    <color name="pink">#FFFFC0CB</color>
+    <color name="light_pink">#FFFFB6C1</color>
+    <color name="dark_pink">#FFFF69B4</color>
+
+    <!-- Browns -->
+    <color name="brown">#FFA52A2A</color>
+    <color name="light_brown">#FFDEB887</color>
+    <color name="dark_brown">#FF8B4513</color>
+
+    <!-- Teals -->
+    <color name="teal">#FF008080</color>
+    <color name="light_teal">#FF20B2AA</color>
+    <color name="dark_teal">#FF004040</color>
+</resources>
